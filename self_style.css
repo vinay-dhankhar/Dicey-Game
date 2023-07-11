@@ -1,0 +1,21 @@
+*{
+    margin: 5px;
+    padding: 5px;
+}
+body{
+    background-color: rgb(49, 55, 69);
+    text-align: center;
+}
+h1,p,h3{
+    color: rgb(74, 215, 215);
+    font-size: 3rem;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+button{
+    height: 2rem;
+    width: 4rem;
+}
